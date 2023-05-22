@@ -102,7 +102,7 @@
 
                                     <div class="form-group">
 										<label>Upload Picture</label>
-										<input type="password" class="form-control" placeholder="Your strong password">
+										<input type="file" name="picture" class="form-control" placeholder="Choose a file">
 										<img src=
 									</div>
 
